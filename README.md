@@ -21,3 +21,6 @@ Exit with CTRL + D
 * HelloWorld.rb - basic printing of hello world statements
 * Strings.rb - basic string functionality
 * analyzer.rb - course HW
+* Numbers.rb - basic number functionality
+* NumAnalyzer.rb - example program using number functionality
+
