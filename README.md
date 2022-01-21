@@ -23,4 +23,7 @@ Exit with CTRL + D
 * analyzer.rb - course HW
 * Numbers.rb - basic number functionality
 * NumAnalyzer.rb - example program using number functionality
+* MethodsBranching.rb - basics of methods and branching (if/elsif/else)
+* ArraysIterators.rb - Some basics of arrays and the methods/iterators available on them
+
 
