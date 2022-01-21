@@ -25,5 +25,6 @@ Exit with CTRL + D
 * NumAnalyzer.rb - example program using number functionality
 * MethodsBranching.rb - basics of methods and branching (if/elsif/else)
 * ArraysIterators.rb - Some basics of arrays and the methods/iterators available on them
+* Hashes.rb - basics of hash objects in Ruby
 
 
