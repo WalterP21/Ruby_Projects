@@ -16,6 +16,7 @@ Exit with CTRL + D
 ```
 * Variables you assign to another varialble (ex. var_1 = var_2) point to the initial value of the other variable, so you can change var_2 and the value of var_1 will stay as what var_2 was when you assigne it
 * \ is used to escape special characters in strings
+* ruby uses 2 spaces for tabs
 
 ### File Discription
 * HelloWorld.rb - basic printing of hello world statements
@@ -26,5 +27,11 @@ Exit with CTRL + D
 * MethodsBranching.rb - basics of methods and branching (if/elsif/else)
 * ArraysIterators.rb - Some basics of arrays and the methods/iterators available on them
 * Hashes.rb - basics of hash objects in Ruby
+* Authenticator.rb - project that incorperates hashs, arrays, and methods
+* RubyStyleGuide.rb - contains some formating standards for ruby
+* Area_Code_Dictionary - project covering topics up to hashs
+* OOP_intro - txt contains info on OOP
+* bycrypt.rb - contains some basic sandboxing with bycrypt
+* crud.rb, student.rb, main.rb - final ruby project with some mixins, modules and require syntax for importing gems
 
 
